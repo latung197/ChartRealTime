@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L3fRed2Lyl7LK/lGFtyWq20dKkdJFnEKxnhFdsnW4QXBuB5hrqDNESa8yQzzlMyM8UBcEVfiVT/PQra5HiuARg==",
+  "dgSpecHash": "w1b3UlD0VL55VJO5FDSiLjsP0jsevCY1V6HeFl+Sxc1QApTsYzsM49ejm54+0W1Aou2TQ96USruv0aEJdZQC4Q==",
   "success": true,
-  "projectFilePath": "D:\\Source\\ChartRealTime\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

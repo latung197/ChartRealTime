@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source\\ChartRealTime\\Application\\Application.csproj": {}
+    "D:\\Demo\\ChartRealTime\\Application\\Application.csproj": {}
   },
   "projects": {
-    "D:\\Source\\ChartRealTime\\Application\\Application.csproj": {
+    "D:\\Demo\\ChartRealTime\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source\\ChartRealTime\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Demo\\ChartRealTime\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Source\\ChartRealTime\\Application\\Application.csproj",
+        "projectPath": "D:\\Demo\\ChartRealTime\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\RFVNPC\\.nuget\\packages\\",
-        "outputPath": "D:\\Source\\ChartRealTime\\Application\\obj\\",
+        "outputPath": "D:\\Demo\\ChartRealTime\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

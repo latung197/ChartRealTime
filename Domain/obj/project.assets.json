@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source\\ChartRealTime\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Source\\ChartRealTime\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\RFVNPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Source\\ChartRealTime\\Domain\\obj\\",
+      "outputPath": "D:\\Demo\\ChartRealTime\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

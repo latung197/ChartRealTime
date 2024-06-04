@@ -4,5 +4,17 @@
     <Compile Update="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Resources\CustomControl\RJButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Resources\CustomControl\RJComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Resources\CustomControl\RJDropdownMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Resources\CustomControl\RJToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

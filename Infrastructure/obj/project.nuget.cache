@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WBWT+JzQK7iaSY3eJGP6tLPmCxKHrK95kkeJWnG0D33D50M2S9kToLMaEinUs/24bzhrKiyQqXOVzgLLjXNxoQ==",
+  "dgSpecHash": "ikGnLoUo5zKwHudFMllfD3DnR9xw/4q8mV0IzysjugQjC6pOuWRrCOonmgWbau7YM2HPOU63DFTW6tzoYdCpkA==",
   "success": true,
-  "projectFilePath": "D:\\Source\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

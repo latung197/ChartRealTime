@@ -16,5 +16,10 @@ namespace ChartRealTime
             chart1.Plot.Add.Scatter(dataX, dataY);
             chart1.Refresh();
         }
+
+        private void chart1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

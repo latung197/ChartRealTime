@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo\\ChartRealTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\resources\\customcontrol\\rjdropdownmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjdropdownmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\resources\\customcontrol\\menurenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\menurenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\resources\\customcontrol\\menucolortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\menucolortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\resources\\customcontrol\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\resources\\customcontrol\\rjtogglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjtogglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\resources\\customcontrol\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|d:\\demo\\chartrealtime\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\chartrealtime.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\chartrealtime.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|D:\\Demo\\ChartRealTime\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|D:\\Demo\\ChartRealTime\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|d:\\demo\\chartrealtime\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|D:\\Demo\\ChartRealTime\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|D:\\Demo\\ChartRealTime\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RJDropdownMenu.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
+              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwE4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:30:32.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuColorTable.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
+              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:29:00.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RJComboBox.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
+              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAUwGsBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:25:37.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RJToggleButton.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
+              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAA0wGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:20:53.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RJButton.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
+              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:18:14.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:15:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\MainForm.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
+              "RelativeToolTip": "ChartRealTime\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:50:44.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:46:36.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Program.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Program.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Program.cs",
+              "RelativeToolTip": "ChartRealTime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:46:22.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\MainForm.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs [Design]",
+              "RelativeToolTip": "ChartRealTime\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:46:19.697Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuRenderer.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
+              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:29:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T04:46:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T04:46:11.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChartRealTime.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
+              "RelativeDocumentMoniker": "ChartRealTime\\ChartRealTime.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
+              "RelativeToolTip": "ChartRealTime\\ChartRealTime.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T04:46:09.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T04:46:09.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T04:46:07.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
