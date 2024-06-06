@@ -65,3 +65,4 @@ D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net6.0-windows7.0\refint\ChartReal
 D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.pdb
 D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.genruntimeconfig.cache
 D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net6.0-windows7.0\ref\ChartRealTime.dll
+D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.Resources.CustomControl.RJComboBox.resources

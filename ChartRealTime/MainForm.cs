@@ -21,5 +21,15 @@ namespace ChartRealTime
         {
 
         }
+
+        private void rjToggleButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rjComboBox1_OnSelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
