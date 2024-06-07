@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Demo\\ChartRealtime\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Demo\\ChartRealtime\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Demo\\ChartRealtime\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\Demo\\ChartRealtime\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\RFVNPC\\.nuget\\packages\\",
         "outputPath": "D:\\Demo\\ChartRealTime\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",

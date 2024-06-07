@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj": {}
+    "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj": {
+    "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\RFVNPC\\.nuget\\packages\\",
         "outputPath": "D:\\Demo\\ChartRealTime\\Domain\\obj\\",
         "projectStyle": "PackageReference",

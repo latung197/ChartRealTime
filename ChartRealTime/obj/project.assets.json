@@ -599,9 +599,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
+      "projectUniqueName": "D:\\Demo\\ChartRealtime\\ChartRealTime\\ChartRealTime.csproj",
       "projectName": "ChartRealTime",
-      "projectPath": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
+      "projectPath": "D:\\Demo\\ChartRealtime\\ChartRealTime\\ChartRealTime.csproj",
       "packagesPath": "C:\\Users\\RFVNPC\\.nuget\\packages\\",
       "outputPath": "D:\\Demo\\ChartRealTime\\ChartRealTime\\obj\\",
       "projectStyle": "PackageReference",

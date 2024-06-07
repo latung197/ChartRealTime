@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UhU1u0EDgm0ABuHd2l0E7JctoP8eqrappLGHdNO8ffbOEYc7YjMKz6v+QXB8C6seh8L3vZKTG6c/OoYmVj1GGg==",
+  "dgSpecHash": "yMwKJPeDAIUmPnufPODaf6HKy69di0jngHPTbilYzH9O3wDFoTRUeAET3W072BxJ+RaFPLth2qtO0xx4K2kVVw==",
   "success": true,
-  "projectFilePath": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
+  "projectFilePath": "D:\\Demo\\ChartRealtime\\ChartRealTime\\ChartRealTime.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RFVNPC\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
     "C:\\Users\\RFVNPC\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",

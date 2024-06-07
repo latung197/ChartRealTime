@@ -46,7 +46,6 @@
             chart1.Name = "chart1";
             chart1.Size = new Size(490, 376);
             chart1.TabIndex = 0;
-            chart1.Load += chart1_Load;
             // 
             // rjDropdownMenu1
             // 
@@ -99,6 +98,7 @@
             Controls.Add(chart1);
             Name = "MainForm";
             Text = "q";
+            Load += MainForm_Load;
             rjDropdownMenu1.ResumeLayout(false);
             ResumeLayout(false);
         }
