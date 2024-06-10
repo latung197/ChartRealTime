@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ChartRealTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a068ac173325e715085b3cbd8370f904fb4db4ba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a93c4c1ccfdb97a5b1f5c5b778b9ed122c4dadd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ChartRealTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ChartRealTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

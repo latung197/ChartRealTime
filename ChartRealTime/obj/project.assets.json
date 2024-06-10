@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net6.0-windows7.0": {
-      "Microsoft.NETCore.Platforms/3.1.9": {
+      "Microsoft.NETCore.Platforms/3.1.4": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/_._": {}
@@ -33,40 +33,11 @@
           }
         }
       },
-      "OpenTK/3.1.0": {
-        "type": "package",
-        "compile": {
-          "lib/net20/OpenTK.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net20/OpenTK.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "OpenTK.GLControl/3.1.0": {
+      "ScottPlot/4.1.60": {
         "type": "package",
         "dependencies": {
-          "OpenTK": "3.1.0"
-        },
-        "compile": {
-          "lib/net20/OpenTK.GLControl.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net20/OpenTK.GLControl.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "ScottPlot/5.0.34": {
-        "type": "package",
-        "dependencies": {
-          "SkiaSharp": "2.88.8",
-          "SkiaSharp.NativeAssets.Linux.NoDependencies": "2.88.8"
+          "System.Drawing.Common": "4.7.2",
+          "System.Numerics.Vectors": "4.5.0"
         },
         "compile": {
           "lib/net6.0/ScottPlot.dll": {
@@ -79,151 +50,25 @@
           }
         }
       },
-      "ScottPlot.WinForms/5.0.34": {
+      "ScottPlot.WinForms/4.1.60": {
         "type": "package",
         "dependencies": {
-          "ScottPlot": "5.0.34",
-          "SkiaSharp.Views.WindowsForms": "2.88.8"
+          "ScottPlot": "4.1.60"
         },
         "compile": {
-          "lib/net6.0-windows7.0/ScottPlot.WinForms.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0-windows7.0/ScottPlot.WinForms.dll": {}
         },
         "runtime": {
-          "lib/net6.0-windows7.0/ScottPlot.WinForms.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0-windows7.0/ScottPlot.WinForms.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.WindowsDesktop.App.WindowsForms"
         ]
       },
-      "SkiaSharp/2.88.8": {
+      "System.Drawing.Common/4.7.2": {
         "type": "package",
         "dependencies": {
-          "SkiaSharp.NativeAssets.Win32": "2.88.8",
-          "SkiaSharp.NativeAssets.macOS": "2.88.8"
-        },
-        "compile": {
-          "lib/net6.0/SkiaSharp.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/SkiaSharp.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "SkiaSharp.NativeAssets.Linux.NoDependencies/2.88.8": {
-        "type": "package",
-        "dependencies": {
-          "SkiaSharp": "2.88.8"
-        },
-        "compile": {
-          "lib/net6.0/_._": {}
-        },
-        "runtime": {
-          "lib/net6.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/linux-arm/native/libSkiaSharp.so": {
-            "assetType": "native",
-            "rid": "linux-arm"
-          },
-          "runtimes/linux-arm64/native/libSkiaSharp.so": {
-            "assetType": "native",
-            "rid": "linux-arm64"
-          },
-          "runtimes/linux-musl-x64/native/libSkiaSharp.so": {
-            "assetType": "native",
-            "rid": "linux-musl-x64"
-          },
-          "runtimes/linux-x64/native/libSkiaSharp.so": {
-            "assetType": "native",
-            "rid": "linux-x64"
-          }
-        }
-      },
-      "SkiaSharp.NativeAssets.macOS/2.88.8": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/_._": {}
-        },
-        "runtime": {
-          "lib/net6.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/osx/native/libSkiaSharp.dylib": {
-            "assetType": "native",
-            "rid": "osx"
-          }
-        }
-      },
-      "SkiaSharp.NativeAssets.Win32/2.88.8": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/_._": {}
-        },
-        "runtime": {
-          "lib/net6.0/_._": {}
-        },
-        "runtimeTargets": {
-          "runtimes/win-arm64/native/libSkiaSharp.dll": {
-            "assetType": "native",
-            "rid": "win-arm64"
-          },
-          "runtimes/win-x64/native/libSkiaSharp.dll": {
-            "assetType": "native",
-            "rid": "win-x64"
-          },
-          "runtimes/win-x86/native/libSkiaSharp.dll": {
-            "assetType": "native",
-            "rid": "win-x86"
-          }
-        }
-      },
-      "SkiaSharp.Views.Desktop.Common/2.88.8": {
-        "type": "package",
-        "dependencies": {
-          "SkiaSharp": "2.88.8",
-          "System.Drawing.Common": "4.7.3"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/SkiaSharp.Views.Desktop.Common.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/SkiaSharp.Views.Desktop.Common.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "SkiaSharp.Views.WindowsForms/2.88.8": {
-        "type": "package",
-        "dependencies": {
-          "OpenTK": "3.1.0",
-          "OpenTK.GLControl": "3.1.0",
-          "SkiaSharp": "2.88.8",
-          "SkiaSharp.Views.Desktop.Common": "2.88.8"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/SkiaSharp.Views.WindowsForms.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/SkiaSharp.Views.WindowsForms.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "System.Drawing.Common/4.7.3": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "3.1.9",
+          "Microsoft.NETCore.Platforms": "3.1.4",
           "Microsoft.Win32.SystemEvents": "4.7.0"
         },
         "compile": {
@@ -244,14 +89,23 @@
             "rid": "win"
           }
         }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
       }
     }
   },
   "libraries": {
-    "Microsoft.NETCore.Platforms/3.1.9": {
-      "sha512": "e+/BrhryHoMojWlbcPJAFcShpk3JYvsMfrmoM26dnvHARWR6vtmGbfHppZcANVqf7DUBDIRxlZXcWg7v/9e1TQ==",
+    "Microsoft.NETCore.Platforms/3.1.4": {
+      "sha512": "9/y05/CuxE+j184Nr4KihhB9KcUkvGojmD4JV4Vt/mHhVZR+eOCD5WCM+CXye9K0OFMsaPXbN+IcaIpjgBGZmg==",
       "type": "package",
-      "path": "microsoft.netcore.platforms/3.1.9",
+      "path": "microsoft.netcore.platforms/3.1.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -259,7 +113,7 @@
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/_._",
-        "microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+        "microsoft.netcore.platforms.3.1.4.nupkg.sha512",
         "microsoft.netcore.platforms.nuspec",
         "runtime.json",
         "useSharedDesignerContext.txt",
@@ -295,261 +149,50 @@
         "version.txt"
       ]
     },
-    "OpenTK/3.1.0": {
-      "sha512": "xoP5kb81lRSY5RzbntaFA9yXK+aGF5SLShhns55MyZtxtNafIxRH5KvRTFss/N653brTzE+AfepjKsbMexYlBQ==",
+    "ScottPlot/4.1.60": {
+      "sha512": "BRV/xEXQ9QQISvZ5tIMBN1VnvTwQcsXOwbq6kqE8zKbA7iyapdzdc7U9aM5g9pLZPi75FtWFAGICazugjbcY0g==",
       "type": "package",
-      "path": "opentk/3.1.0",
+      "path": "scottplot/4.1.60",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "content/OpenTK.dll.config",
-        "lib/net20/OpenTK.dll",
-        "lib/net20/OpenTK.pdb",
-        "lib/net20/OpenTK.xml",
-        "opentk.3.1.0.nupkg.sha512",
-        "opentk.nuspec"
-      ]
-    },
-    "OpenTK.GLControl/3.1.0": {
-      "sha512": "BjDzF+MhJd2LaZYzkXmgkzzXgHAko/Iur4rGy6+DPdZA1Jcc0X6jXZ6QsUsjlLRNzgevO7uAj2h1TqX7sguaYg==",
-      "type": "package",
-      "path": "opentk.glcontrol/3.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net20/OpenTK.GLControl.dll",
-        "lib/net20/OpenTK.GLControl.pdb",
-        "lib/net20/OpenTK.GLControl.xml",
-        "opentk.glcontrol.3.1.0.nupkg.sha512",
-        "opentk.glcontrol.nuspec"
-      ]
-    },
-    "ScottPlot/5.0.34": {
-      "sha512": "xo59+NWxTB9mTAHEvzKWi3U7dB0JjKGzx8KMWd3xWykGACSR1GKjY4yfRJ5AYuYmDVSE9UVL0IDb1U5GqYKjqg==",
-      "type": "package",
-      "path": "scottplot/5.0.34",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
+        "README.md",
+        "icon.ico",
         "icon.png",
         "lib/net462/ScottPlot.dll",
         "lib/net462/ScottPlot.xml",
         "lib/net6.0/ScottPlot.dll",
         "lib/net6.0/ScottPlot.xml",
-        "lib/net8.0/ScottPlot.dll",
-        "lib/net8.0/ScottPlot.xml",
         "lib/netstandard2.0/ScottPlot.dll",
         "lib/netstandard2.0/ScottPlot.xml",
-        "readme.md",
-        "scottplot.5.0.34.nupkg.sha512",
+        "scottplot.4.1.60.nupkg.sha512",
         "scottplot.nuspec"
       ]
     },
-    "ScottPlot.WinForms/5.0.34": {
-      "sha512": "cYkM1C5YWb8R43MWvnwLywPzB/SeVPBp4qd7nwde75BM2FAtopt6uFVGRcg4/9WmN4JXnI2z6uvX4g/XF9H6aQ==",
+    "ScottPlot.WinForms/4.1.60": {
+      "sha512": "qL5/Le2KG7nUgJmLFAxLK7iV0Zxt4eEV9CCb+3ILammcVZrPdw9r1U9aqvzAJE96a56hLl8S1e0DZK6ghH6Rlg==",
       "type": "package",
-      "path": "scottplot.winforms/5.0.34",
+      "path": "scottplot.winforms/4.1.60",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "README.md",
+        "icon.ico",
         "icon.png",
-        "lib/net462/ScottPlot.WinForms.dll",
-        "lib/net462/ScottPlot.WinForms.xml",
+        "lib/net461/ScottPlot.WinForms.dll",
+        "lib/net472/ScottPlot.WinForms.dll",
+        "lib/net48/ScottPlot.WinForms.dll",
+        "lib/net5.0-windows7.0/ScottPlot.WinForms.dll",
         "lib/net6.0-windows7.0/ScottPlot.WinForms.dll",
-        "lib/net6.0-windows7.0/ScottPlot.WinForms.xml",
-        "readme.md",
-        "scottplot.winforms.5.0.34.nupkg.sha512",
+        "lib/netcoreapp3.1/ScottPlot.WinForms.dll",
+        "scottplot.winforms.4.1.60.nupkg.sha512",
         "scottplot.winforms.nuspec"
       ]
     },
-    "SkiaSharp/2.88.8": {
-      "sha512": "bRkp3uKp5ZI8gXYQT57uKwil1uobb2p8c69n7v5evlB/2JNcMAXVcw9DZAP5Ig3WSvgzGm2YSn27UVeOi05NlA==",
+    "System.Drawing.Common/4.7.2": {
+      "sha512": "I2y4KBK3VCvU/WqE2xv7NjQ67maXHttkFSHYKgU2evrG9Yqh0oFjfORXt5hZTk+BVjdyFo2h0/YQZsca33BGmg==",
       "type": "package",
-      "path": "skiasharp/2.88.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "THIRD-PARTY-NOTICES.txt",
-        "interactive-extensions/dotnet/SkiaSharp.DotNet.Interactive.dll",
-        "lib/monoandroid1.0/SkiaSharp.dll",
-        "lib/monoandroid1.0/SkiaSharp.pdb",
-        "lib/monoandroid1.0/SkiaSharp.xml",
-        "lib/net462/SkiaSharp.dll",
-        "lib/net462/SkiaSharp.pdb",
-        "lib/net462/SkiaSharp.xml",
-        "lib/net6.0-android30.0/SkiaSharp.dll",
-        "lib/net6.0-android30.0/SkiaSharp.pdb",
-        "lib/net6.0-android30.0/SkiaSharp.xml",
-        "lib/net6.0-ios13.6/SkiaSharp.dll",
-        "lib/net6.0-ios13.6/SkiaSharp.pdb",
-        "lib/net6.0-ios13.6/SkiaSharp.xml",
-        "lib/net6.0-maccatalyst13.5/SkiaSharp.dll",
-        "lib/net6.0-maccatalyst13.5/SkiaSharp.pdb",
-        "lib/net6.0-maccatalyst13.5/SkiaSharp.xml",
-        "lib/net6.0-macos10.15/SkiaSharp.dll",
-        "lib/net6.0-macos10.15/SkiaSharp.pdb",
-        "lib/net6.0-macos10.15/SkiaSharp.xml",
-        "lib/net6.0-tizen7.0/SkiaSharp.dll",
-        "lib/net6.0-tizen7.0/SkiaSharp.pdb",
-        "lib/net6.0-tizen7.0/SkiaSharp.xml",
-        "lib/net6.0-tvos13.4/SkiaSharp.dll",
-        "lib/net6.0-tvos13.4/SkiaSharp.pdb",
-        "lib/net6.0-tvos13.4/SkiaSharp.xml",
-        "lib/net6.0/SkiaSharp.dll",
-        "lib/net6.0/SkiaSharp.pdb",
-        "lib/net6.0/SkiaSharp.xml",
-        "lib/netcoreapp3.1/SkiaSharp.dll",
-        "lib/netcoreapp3.1/SkiaSharp.pdb",
-        "lib/netcoreapp3.1/SkiaSharp.xml",
-        "lib/netstandard1.3/SkiaSharp.dll",
-        "lib/netstandard1.3/SkiaSharp.pdb",
-        "lib/netstandard1.3/SkiaSharp.xml",
-        "lib/netstandard2.0/SkiaSharp.dll",
-        "lib/netstandard2.0/SkiaSharp.pdb",
-        "lib/netstandard2.0/SkiaSharp.xml",
-        "lib/netstandard2.1/SkiaSharp.dll",
-        "lib/netstandard2.1/SkiaSharp.pdb",
-        "lib/netstandard2.1/SkiaSharp.xml",
-        "lib/tizen40/SkiaSharp.dll",
-        "lib/tizen40/SkiaSharp.pdb",
-        "lib/tizen40/SkiaSharp.xml",
-        "lib/uap10.0.10240/SkiaSharp.dll",
-        "lib/uap10.0.10240/SkiaSharp.pdb",
-        "lib/uap10.0.10240/SkiaSharp.xml",
-        "lib/uap10.0.16299/SkiaSharp.dll",
-        "lib/uap10.0.16299/SkiaSharp.pdb",
-        "lib/uap10.0.16299/SkiaSharp.xml",
-        "lib/xamarinios1.0/SkiaSharp.dll",
-        "lib/xamarinios1.0/SkiaSharp.pdb",
-        "lib/xamarinios1.0/SkiaSharp.xml",
-        "lib/xamarinmac2.0/SkiaSharp.dll",
-        "lib/xamarinmac2.0/SkiaSharp.pdb",
-        "lib/xamarinmac2.0/SkiaSharp.xml",
-        "lib/xamarintvos1.0/SkiaSharp.dll",
-        "lib/xamarintvos1.0/SkiaSharp.pdb",
-        "lib/xamarintvos1.0/SkiaSharp.xml",
-        "lib/xamarinwatchos1.0/SkiaSharp.dll",
-        "lib/xamarinwatchos1.0/SkiaSharp.pdb",
-        "lib/xamarinwatchos1.0/SkiaSharp.xml",
-        "skiasharp.2.88.8.nupkg.sha512",
-        "skiasharp.nuspec"
-      ]
-    },
-    "SkiaSharp.NativeAssets.Linux.NoDependencies/2.88.8": {
-      "sha512": "/DoKtdyvRgCC5GR/SH+ps3ZiOjmf0BYpAyrhWQELFOO1hdcqddrDVJjDNCOJ41vV+NlS5b3kcDoZZ7jLhFjyXg==",
-      "type": "package",
-      "path": "skiasharp.nativeassets.linux.nodependencies/2.88.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "THIRD-PARTY-NOTICES.txt",
-        "build/net462/SkiaSharp.NativeAssets.Linux.NoDependencies.targets",
-        "buildTransitive/net462/SkiaSharp.NativeAssets.Linux.NoDependencies.targets",
-        "lib/net462/_._",
-        "lib/net6.0/_._",
-        "lib/netcoreapp3.1/_._",
-        "lib/netstandard1.3/_._",
-        "runtimes/linux-arm/native/libSkiaSharp.so",
-        "runtimes/linux-arm64/native/libSkiaSharp.so",
-        "runtimes/linux-musl-x64/native/libSkiaSharp.so",
-        "runtimes/linux-x64/native/libSkiaSharp.so",
-        "skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
-        "skiasharp.nativeassets.linux.nodependencies.nuspec"
-      ]
-    },
-    "SkiaSharp.NativeAssets.macOS/2.88.8": {
-      "sha512": "6Kn5TSkKlfyS6azWHF3Jk2sW5C4jCE5uSshM/5AbfFrR+5n6qM5XEnz9h4VaVl7LTxBvHvMkuPb/3bpbq0vxTw==",
-      "type": "package",
-      "path": "skiasharp.nativeassets.macos/2.88.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "THIRD-PARTY-NOTICES.txt",
-        "build/net462/SkiaSharp.NativeAssets.macOS.targets",
-        "build/net6.0-macos10.15/SkiaSharp.NativeAssets.macOS.targets",
-        "build/xamarinmac2.0/SkiaSharp.NativeAssets.macOS.targets",
-        "buildTransitive/net462/SkiaSharp.NativeAssets.macOS.targets",
-        "buildTransitive/net6.0-macos10.15/SkiaSharp.NativeAssets.macOS.targets",
-        "buildTransitive/xamarinmac2.0/SkiaSharp.NativeAssets.macOS.targets",
-        "lib/net462/_._",
-        "lib/net6.0-macos10.15/_._",
-        "lib/net6.0/_._",
-        "lib/netcoreapp3.1/_._",
-        "lib/netstandard1.3/_._",
-        "lib/xamarinmac2.0/_._",
-        "runtimes/osx/native/libSkiaSharp.dylib",
-        "skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
-        "skiasharp.nativeassets.macos.nuspec"
-      ]
-    },
-    "SkiaSharp.NativeAssets.Win32/2.88.8": {
-      "sha512": "O9QXoWEXA+6cweR4h3BOnwMz+pO9vL9mXdjLrpDd0w1QzCgWmLQBxa1VgySDITiH7nQndrDG1h6937zm9pLj1Q==",
-      "type": "package",
-      "path": "skiasharp.nativeassets.win32/2.88.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "THIRD-PARTY-NOTICES.txt",
-        "build/net462/SkiaSharp.NativeAssets.Win32.targets",
-        "buildTransitive/net462/SkiaSharp.NativeAssets.Win32.targets",
-        "lib/net462/_._",
-        "lib/net6.0/_._",
-        "lib/netcoreapp3.1/_._",
-        "lib/netstandard1.3/_._",
-        "runtimes/win-arm64/native/libSkiaSharp.dll",
-        "runtimes/win-x64/native/libSkiaSharp.dll",
-        "runtimes/win-x86/native/libSkiaSharp.dll",
-        "skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
-        "skiasharp.nativeassets.win32.nuspec"
-      ]
-    },
-    "SkiaSharp.Views.Desktop.Common/2.88.8": {
-      "sha512": "SBP7byk9a5gmzHriOTC6BjykqJ5rCTqXIo/RLNszPaKwDs8naCZGUM9GZmreshPkpsyez3Ci4sm3+eleuSGgVQ==",
-      "type": "package",
-      "path": "skiasharp.views.desktop.common/2.88.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "lib/net462/SkiaSharp.Views.Desktop.Common.dll",
-        "lib/net462/SkiaSharp.Views.Desktop.Common.pdb",
-        "lib/net462/SkiaSharp.Views.Desktop.Common.xml",
-        "lib/netcoreapp3.1/SkiaSharp.Views.Desktop.Common.dll",
-        "lib/netcoreapp3.1/SkiaSharp.Views.Desktop.Common.pdb",
-        "lib/netcoreapp3.1/SkiaSharp.Views.Desktop.Common.xml",
-        "lib/netstandard2.0/SkiaSharp.Views.Desktop.Common.dll",
-        "lib/netstandard2.0/SkiaSharp.Views.Desktop.Common.pdb",
-        "lib/netstandard2.0/SkiaSharp.Views.Desktop.Common.xml",
-        "skiasharp.views.desktop.common.2.88.8.nupkg.sha512",
-        "skiasharp.views.desktop.common.nuspec"
-      ]
-    },
-    "SkiaSharp.Views.WindowsForms/2.88.8": {
-      "sha512": "AEy9unq+DIzV6EqM7pJ+UuOo+Qdr2EsASggJEdtxTImFDj4jFUZ3bjTSre65hD+UGnX2QFn/hy2X8SW+v6bR8A==",
-      "type": "package",
-      "path": "skiasharp.views.windowsforms/2.88.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "lib/net462/SkiaSharp.Views.WindowsForms.dll",
-        "lib/net462/SkiaSharp.Views.WindowsForms.pdb",
-        "lib/net462/SkiaSharp.Views.WindowsForms.xml",
-        "lib/netcoreapp3.1/SkiaSharp.Views.WindowsForms.dll",
-        "lib/netcoreapp3.1/SkiaSharp.Views.WindowsForms.pdb",
-        "lib/netcoreapp3.1/SkiaSharp.Views.WindowsForms.xml",
-        "skiasharp.views.windowsforms.2.88.8.nupkg.sha512",
-        "skiasharp.views.windowsforms.nuspec"
-      ]
-    },
-    "System.Drawing.Common/4.7.3": {
-      "sha512": "B3+wwhAeoUQ6KeshWSq3IRLQiMoqPEzSHzyVyxTI/EbYuqIp90lXrRISlip2AF+5tj74ycIVPpnRY4M424HahA==",
-      "type": "package",
-      "path": "system.drawing.common/4.7.3",
+      "path": "system.drawing.common/4.7.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -580,8 +223,55 @@
         "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll",
         "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll",
         "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.xml",
-        "system.drawing.common.4.7.3.nupkg.sha512",
+        "system.drawing.common.4.7.2.nupkg.sha512",
         "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "type": "package",
+      "path": "system.numerics.vectors/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Numerics.Vectors.dll",
+        "lib/net46/System.Numerics.Vectors.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Numerics.Vectors.dll",
+        "lib/netstandard1.0/System.Numerics.Vectors.xml",
+        "lib/netstandard2.0/System.Numerics.Vectors.dll",
+        "lib/netstandard2.0/System.Numerics.Vectors.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Numerics.Vectors.dll",
+        "ref/net45/System.Numerics.Vectors.xml",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.numerics.vectors.4.5.0.nupkg.sha512",
+        "system.numerics.vectors.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
@@ -589,7 +279,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "ScottPlot.WinForms >= 5.0.34"
+      "ScottPlot.WinForms >= 4.1.60"
     ]
   },
   "packageFolders": {
@@ -603,7 +293,7 @@
       "projectName": "ChartRealTime",
       "projectPath": "D:\\Demo\\ChartRealtime\\ChartRealTime\\ChartRealTime.csproj",
       "packagesPath": "C:\\Users\\RFVNPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\ChartRealTime\\ChartRealTime\\obj\\",
+      "outputPath": "D:\\Demo\\ChartRealtime\\ChartRealTime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -644,7 +334,7 @@
         "dependencies": {
           "ScottPlot.WinForms": {
             "target": "Package",
-            "version": "[5.0.34, )"
+            "version": "[4.1.60, )"
           }
         },
         "imports": [
@@ -669,27 +359,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'OpenTK 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
-      "libraryId": "OpenTK",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'OpenTK.GLControl 3.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
-      "libraryId": "OpenTK.GLControl",
-      "targetGraphs": [
-        "net6.0-windows7.0"
-      ]
-    }
-  ]
+  }
 }

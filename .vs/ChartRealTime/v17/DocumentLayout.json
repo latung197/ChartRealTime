@@ -3,140 +3,16 @@
   "WorkspaceRootPath": "D:\\Demo\\ChartRealTime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|d:\\demo\\chartrealtime\\webclient\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|d:\\demo\\chartrealtime\\webclient\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|d:\\demo\\chartrealtime\\webclient\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|d:\\demo\\chartrealtime\\webclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|d:\\demo\\chartrealtime\\webclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\chartrealtime.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\chartrealtime.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\chartrealtime.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\chartrealtime.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|D:\\Demo\\ChartRealTime\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\webclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\webclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|D:\\Demo\\ChartRealTime\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\resources\\customcontrol\\rjdropdownmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjdropdownmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\resources\\customcontrol\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\resources\\customcontrol\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\resources\\customcontrol\\rjtogglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjtogglebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\resources\\customcontrol\\menurenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\menurenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\resources\\customcontrol\\menucolortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\menucolortable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\resources\\customcontrol\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F14CE42-15F1-47C4-8E65-E890AFDECE5C}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\resources\\customcontrol\\rjcombobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|D:\\Demo\\ChartRealTime\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C2DB2AAF-4B48-4DF0-A87E-77AEB242E829}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|D:\\Demo\\ChartRealTime\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|D:\\Demo\\ChartRealTime\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F18F889-9779-4E65-A22E-406CE4E0D9C8}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|D:\\Demo\\ChartRealTime\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BDCF320-6F87-4793-898C-87042360DDB5}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -146,420 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Category\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebClient\\Views\\Category\\Details.cshtml",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Category\\Details.cshtml",
-              "RelativeToolTip": "WebClient\\Views\\Category\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T09:21:58.891Z",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealtime\\ChartRealTime\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\MainForm.Designer.cs",
+              "ToolTip": "D:\\Demo\\ChartRealtime\\ChartRealTime\\MainForm.Designer.cs",
+              "RelativeToolTip": "ChartRealTime\\MainForm.Designer.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAqwHgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:04:13.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebClient\\Views\\Category\\Index.cshtml",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "WebClient\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T09:20:29.389Z",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\MainForm.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
+              "RelativeToolTip": "ChartRealTime\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:02:01.233Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "WebClient\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "WebClient\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:20:03.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebClient\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebClient\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T09:04:23.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\appsettings.json",
-              "RelativeDocumentMoniker": "WebClient\\appsettings.json",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\appsettings.json",
-              "RelativeToolTip": "WebClient\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T06:31:47.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Program.cs",
-              "RelativeDocumentMoniker": "WebClient\\Program.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Program.cs",
-              "RelativeToolTip": "WebClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T06:34:04.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WebClient",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\WebClient.csproj",
-              "RelativeDocumentMoniker": "WebClient\\WebClient.csproj",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\WebClient.csproj",
-              "RelativeToolTip": "WebClient\\WebClient.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-07T04:53:46.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebClient\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebClient\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T06:34:46.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebClient\\Models\\ErrorViewModel.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebClient\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T08:54:22.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:46:36.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebClient\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebClient\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T06:31:40.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "WebClient\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Properties\\launchSettings.json",
-              "RelativeToolTip": "WebClient\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-06T06:35:33.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebClient\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebClient\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T08:56:25.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
               "RelativeDocumentMoniker": "ChartRealTime\\MainForm.cs",
               "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs [Design]",
               "RelativeToolTip": "ChartRealTime\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:46:19.697Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ChartRealTime.csproj",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
-              "RelativeDocumentMoniker": "ChartRealTime\\ChartRealTime.csproj",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
-              "RelativeToolTip": "ChartRealTime\\ChartRealTime.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T04:46:09.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Program.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Program.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Program.cs",
-              "RelativeToolTip": "ChartRealTime\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:46:22.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ChartRealTime",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
-              "RelativeDocumentMoniker": "ChartRealTime\\ChartRealTime.csproj",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\ChartRealTime.csproj",
-              "RelativeToolTip": "ChartRealTime\\ChartRealTime.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-07T07:04:07.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\MainForm.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.cs",
-              "RelativeToolTip": "ChartRealTime\\MainForm.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAYwBgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:50:44.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.Designer.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\MainForm.Designer.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\MainForm.Designer.cs",
-              "RelativeToolTip": "ChartRealTime\\MainForm.Designer.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAUwDAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T04:55:20.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "WebClient\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "WebClient\\wwwroot\\js\\site.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-06T06:34:58.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebClient\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebClient\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-06T06:34:59.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Application.csproj",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Application\\Application.csproj",
-              "RelativeDocumentMoniker": "Application\\Application.csproj",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Application\\Application.csproj",
-              "RelativeToolTip": "Application\\Application.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T04:46:11.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "WebClient",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\WebClient.csproj",
-              "RelativeDocumentMoniker": "WebClient\\WebClient.csproj",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\WebClient.csproj",
-              "RelativeToolTip": "WebClient\\WebClient.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-06T06:35:30.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T04:46:09.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:15:31.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "RJDropdownMenu.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
-              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJDropdownMenu.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAwE4AAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:30:32.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RJComboBox.cs [Design]",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs [Design]",
-              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T09:09:38.573Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "RJButton.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
-              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJButton.cs",
-              "ViewState": "AQIAAGcAAAAAAAAAAAAYwIgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:18:14.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RJToggleButton.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
-              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJToggleButton.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAYwIUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:20:53.104Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "RJComboBox.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
-              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\RJComboBox.cs",
-              "ViewState": "AQIAAO8AAAAAAAAAAAAUwGsBAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:25:37.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "MenuColorTable.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
-              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\MenuColorTable.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:29:00.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MenuRenderer.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
-              "RelativeDocumentMoniker": "ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
-              "RelativeToolTip": "ChartRealTime\\Resources\\CustomControl\\MenuRenderer.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwD0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T10:29:58.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Application\\Class1.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Application\\Class1.cs",
-              "RelativeToolTip": "Application\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T04:46:15.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Infrastructure.csproj",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
-              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Infrastructure\\Infrastructure.csproj",
-              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-29T04:46:07.762Z"
+              "WhenOpened": "2024-06-10T07:01:54.657Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

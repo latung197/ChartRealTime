@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RUeQemqSUXjzHv+4ye1SgijlGyDDM2YASX87QLkQFCs=",
+  "Hash": "7A842jWhRDzfVptuZjNJ9n+ndPiKTs8V7qnBEG7gxCE=",
   "Source": "WebClient",
   "BasePath": "_content/WebClient",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Demo\\ChartRealtime\\WebClient\\wwwroot\\Img\\scheduletime.png",
+      "SourceId": "WebClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Demo\\ChartRealtime\\WebClient\\wwwroot\\",
+      "BasePath": "_content/WebClient",
+      "RelativePath": "Img/scheduletime.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Img\\scheduletime.png"
     },
     {
       "Identity": "D:\\Demo\\ChartRealtime\\WebClient\\wwwroot\\js\\site.js",

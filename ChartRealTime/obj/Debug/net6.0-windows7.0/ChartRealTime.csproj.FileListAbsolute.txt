@@ -40,3 +40,16 @@ D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.As
 D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.AssemblyInfo.cs
 D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.csproj.CoreCompileInputs.cache
 D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.sourcelink.json
+D:\Demo\ChartRealtime\ChartRealTime\bin\Debug\net6.0-windows7.0\ChartRealTime.exe
+D:\Demo\ChartRealtime\ChartRealTime\bin\Debug\net6.0-windows7.0\ChartRealTime.deps.json
+D:\Demo\ChartRealtime\ChartRealTime\bin\Debug\net6.0-windows7.0\ChartRealTime.runtimeconfig.json
+D:\Demo\ChartRealtime\ChartRealTime\bin\Debug\net6.0-windows7.0\ChartRealTime.dll
+D:\Demo\ChartRealtime\ChartRealTime\bin\Debug\net6.0-windows7.0\ChartRealTime.pdb
+D:\Demo\ChartRealtime\ChartRealTime\bin\Debug\net6.0-windows7.0\ScottPlot.dll
+D:\Demo\ChartRealtime\ChartRealTime\bin\Debug\net6.0-windows7.0\ScottPlot.WinForms.dll
+D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRea.46EBDEEA.Up2Date
+D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.dll
+D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\refint\ChartRealTime.dll
+D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.pdb
+D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ChartRealTime.genruntimeconfig.cache
+D:\Demo\ChartRealtime\ChartRealTime\obj\Debug\net6.0-windows7.0\ref\ChartRealTime.dll

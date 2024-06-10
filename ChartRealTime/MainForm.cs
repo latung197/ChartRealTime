@@ -1,3 +1,4 @@
+using ScottPlot;
 namespace ChartRealTime
 {
     public partial class MainForm : Form
@@ -5,17 +6,30 @@ namespace ChartRealTime
         public MainForm()
         {
             InitializeComponent();
-
+            CreateChart();
         }
 
 
-        public void CreateChart(double[] dataX, double[] dataY)
+        public void CreateChart()
         {
-            chart1.Invoke(new Action(() =>
-            {
-                chart1.Plot.Add.Scatter(dataX, dataY);
-                chart1.Refresh();
-            }));
+            //var  ScottPlot.Version.ShouldBe(4, 1, 71);
+            ScottPlot.Version.ShouldBe(4, 1, 71);
+            var plt = new ScottPlot.Plot(600, 400);
+
+            // sample data
+            double[] xs = DataGen.Consecutive(51);
+            double[] sin = DataGen.Sin(51);
+            double[] cos = DataGen.Cos(51);
+
+            // plot the data
+            plt.AddScatter(xs, sin);
+            plt.AddScatter(xs, cos);
+
+            // customize the axis labels
+            plt.Title("ScottPlot Quickstart");
+            plt.XLabel("Horizontal Axis");
+            plt.YLabel("Vertical Axis");
+
 
         }
 
@@ -23,12 +37,15 @@ namespace ChartRealTime
         {
             await Task.Run(() =>
             {
-                double[] DX = new double[1, 1, 3, 4, 1];
-                double[] DY = new double[1, 2, 3, 4, 5];
-                CreateChart(DX, DY);
-
-
+                //double[] DX = new double[1, 1, 3, 4, 1];
+                //double[] DY = new double[1, 2, 3, 4, 5];
+                //CreateChart(DX, DY);
             });
+
+        }
+
+        private void splitContainer1_SplitterMoved(object sender, SplitterEventArgs e)
+        {
 
         }
     }
