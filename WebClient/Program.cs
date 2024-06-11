@@ -8,7 +8,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-
+    
     builderRazor.AddRazorRuntimeCompilation();
   
 }
@@ -39,6 +39,10 @@ app.UseStaticFiles(new StaticFileOptions
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
     name: "default",
