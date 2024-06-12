@@ -3,20 +3,64 @@
   "WorkspaceRootPath": "D:\\Demo\\ChartRealTime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|d:\\demo\\chartrealtime\\dataaccset\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|solutionrelative:dataaccset\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3BE436C-C500-48FF-B29A-5C7B50133C89}|ChartRealTime\\ChartRealTime.csproj|d:\\demo\\chartrealtime\\chartrealtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C3BE436C-C500-48FF-B29A-5C7B50133C89}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|d:\\demo\\chartrealtime\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3BE436C-C500-48FF-B29A-5C7B50133C89}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE436C-C500-48FF-B29A-5C7B50133C89}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B258C1D-D305-40D5-898E-969DEB987DCD}|Application\\Application.csproj|d:\\demo\\chartrealtime\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B258C1D-D305-40D5-898E-969DEB987DCD}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|D:\\Demo\\ChartRealTime\\infrastructure\\readdata\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\readdata\\readdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16E097EC-995E-4177-9738-9C7EA613B173}|Domain\\Domain.csproj|d:\\demo\\chartrealtime\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16E097EC-995E-4177-9738-9C7EA613B173}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|D:\\Demo\\ChartRealTime\\dataaccset\\dbheper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|solutionrelative:dataaccset\\dbheper\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\webclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|D:\\Demo\\ChartRealTime\\infrastructure\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\configuration\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|D:\\Demo\\ChartRealTime\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B918EDA9-A5FB-4C43-8CD0-F379C513A062}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|D:\\Demo\\ChartRealTime\\dataaccset\\dataaccset.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|solutionrelative:dataaccset\\dataaccset.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E097EC-995E-4177-9738-9C7EA613B173}|Domain\\Domain.csproj|D:\\Demo\\ChartRealTime\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16E097EC-995E-4177-9738-9C7EA613B173}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|D:\\Demo\\ChartRealTime\\webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B4F339-F3EF-4944-9695-2097D2B9D7E1}|WebClient\\WebClient.csproj|solutionrelative:webclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B258C1D-D305-40D5-898E-969DEB987DCD}|Application\\Application.csproj|D:\\Demo\\ChartRealTime\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B258C1D-D305-40D5-898E-969DEB987DCD}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3BE436C-C500-48FF-B29A-5C7B50133C89}|ChartRealTime\\ChartRealTime.csproj|D:\\Demo\\ChartRealTime\\chartrealtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3BE436C-C500-48FF-B29A-5C7B50133C89}|ChartRealTime\\ChartRealTime.csproj|solutionrelative:chartrealtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|D:\\Demo\\ChartRealTime\\dataaccset\\dbheper\\returnstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|solutionrelative:dataaccset\\dbheper\\returnstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|D:\\Demo\\ChartRealTime\\dataaccset\\resource\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|solutionrelative:dataaccset\\resource\\messageerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|D:\\Demo\\ChartRealTime\\dataaccset\\dbheper\\sqlparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DE51D8-EBD5-46EC-A0E5-F4F61F41D50B}|DataAccset\\DataAccset.csproj|solutionrelative:dataaccset\\dbheper\\sqlparam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +70,200 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\DataAccset\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccset\\Class1.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\DataAccset\\Class1.cs",
-              "RelativeToolTip": "DataAccset\\Class1.cs",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Infrastructure\\Configuration\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\Configuration.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Infrastructure\\Configuration\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T11:03:44.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Infrastructure\\Class1.cs",
-              "RelativeToolTip": "Infrastructure\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T11:03:02.136Z",
+              "WhenOpened": "2024-06-12T04:27:07.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Application\\Class1.cs",
-              "RelativeDocumentMoniker": "Application\\Class1.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Application\\Class1.cs",
-              "RelativeToolTip": "Application\\Class1.cs",
+              "Title": "ReadData.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Infrastructure\\ReadData\\ReadData.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ReadData\\ReadData.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\Infrastructure\\ReadData\\ReadData.cs",
+              "RelativeToolTip": "Infrastructure\\ReadData\\ReadData.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwIwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:21:46.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T04:03:50.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\WebClient\\Program.cs",
+              "RelativeDocumentMoniker": "WebClient\\Program.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\WebClient\\Program.cs",
+              "RelativeToolTip": "WebClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T04:02:10.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Form1.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Form1.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Form1.cs",
+              "RelativeToolTip": "ChartRealTime\\Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T11:02:41.947Z",
+              "WhenOpened": "2024-06-12T03:48:51.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "D:\\Demo\\ChartRealTime\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\DataAccset\\DbHeper\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DataAccset\\DbHeper\\DbHelper.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\DataAccset\\DbHeper\\DbHelper.cs",
+              "RelativeToolTip": "DataAccset\\DbHeper\\DbHelper.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T11:02:13.626Z",
+              "WhenOpened": "2024-06-12T03:16:29.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccset.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealtime\\DataAccset\\DataAccset.csproj",
+              "RelativeDocumentMoniker": "DataAccset\\DataAccset.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealtime\\DataAccset\\DataAccset.csproj",
+              "RelativeToolTip": "DataAccset\\DataAccset.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T03:13:51.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Form1.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Form1.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Form1.cs [Design]",
+              "RelativeToolTip": "ChartRealTime\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:56:35.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebClient.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealtime\\WebClient\\WebClient.csproj",
+              "RelativeDocumentMoniker": "WebClient\\WebClient.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealtime\\WebClient\\WebClient.csproj",
+              "RelativeToolTip": "WebClient\\WebClient.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T04:27:46.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Program.cs",
+              "RelativeDocumentMoniker": "ChartRealTime\\Program.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\ChartRealTime\\Program.cs",
+              "RelativeToolTip": "ChartRealTime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:00:05.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReturnStruct.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\DataAccset\\DbHeper\\ReturnStruct.cs",
+              "RelativeDocumentMoniker": "DataAccset\\DbHeper\\ReturnStruct.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\DataAccset\\DbHeper\\ReturnStruct.cs",
+              "RelativeToolTip": "DataAccset\\DbHeper\\ReturnStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:17:48.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealtime\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealtime\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T02:54:26.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MessageError.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\DataAccset\\Resource\\MessageError.cs",
+              "RelativeDocumentMoniker": "DataAccset\\Resource\\MessageError.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\DataAccset\\Resource\\MessageError.cs",
+              "RelativeToolTip": "DataAccset\\Resource\\MessageError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:30:34.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\Demo\\ChartRealtime\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Demo\\ChartRealtime\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T02:52:45.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SqlParam.cs",
+              "DocumentMoniker": "D:\\Demo\\ChartRealTime\\DataAccset\\DbHeper\\SqlParam.cs",
+              "RelativeDocumentMoniker": "DataAccset\\DbHeper\\SqlParam.cs",
+              "ToolTip": "D:\\Demo\\ChartRealTime\\DataAccset\\DbHeper\\SqlParam.cs",
+              "RelativeToolTip": "DataAccset\\DbHeper\\SqlParam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:18:15.924Z",
               "EditorCaption": ""
             }
           ]

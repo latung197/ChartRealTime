@@ -1,0 +1,17 @@
+D:\Demo\ChartRealTime\ChartRealTime\bin\Debug\net7.0-windows\ChartRealTime.exe
+D:\Demo\ChartRealTime\ChartRealTime\bin\Debug\net7.0-windows\ChartRealTime.deps.json
+D:\Demo\ChartRealTime\ChartRealTime\bin\Debug\net7.0-windows\ChartRealTime.runtimeconfig.json
+D:\Demo\ChartRealTime\ChartRealTime\bin\Debug\net7.0-windows\ChartRealTime.dll
+D:\Demo\ChartRealTime\ChartRealTime\bin\Debug\net7.0-windows\ChartRealTime.pdb
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.Form1.resources
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.csproj.GenerateResource.cache
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.AssemblyInfoInputs.cache
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.AssemblyInfo.cs
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.csproj.CoreCompileInputs.cache
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.sourcelink.json
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.dll
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\refint\ChartRealTime.dll
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.pdb
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ChartRealTime.genruntimeconfig.cache
+D:\Demo\ChartRealTime\ChartRealTime\obj\Debug\net7.0-windows\ref\ChartRealTime.dll

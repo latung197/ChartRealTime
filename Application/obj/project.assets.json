@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\RFVNPC\\.nuget\\packages\\": {},
@@ -18,7 +37,7 @@
       "projectName": "Application",
       "projectPath": "D:\\Demo\\ChartRealtime\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\RFVNPC\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\ChartRealtime\\Application\\obj\\",
+      "outputPath": "D:\\Demo\\ChartRealTime\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +58,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Demo\\ChartRealtime\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
