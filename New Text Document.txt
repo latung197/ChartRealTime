@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test02
+=======
+Tiếp tục sửa
+>>>>>>> df7c65e04786dbc6c0b05fd8130561bf4c224c6d
